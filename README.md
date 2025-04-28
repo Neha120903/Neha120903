@@ -22,7 +22,7 @@ I’m open to collaborating on AI/ML projects where I can contribute to data sci
 
 Email: tynehasharma@gmail.com
 
-LinkedIn: [Neha LinkedIn]([https://www.linkedin.com/in/neha-doe/](https://www.linkedin.com/in/neha-sharma-a87a85216/))
+LinkedIn: [Neha LinkedIn]((https://www.linkedin.com/in/neha-sharma-a87a85216/))
 
 <!---
 Neha120903/Neha120903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
